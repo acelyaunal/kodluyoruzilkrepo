@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KODLUYORUZ FRONT-END</title>
+</head>
+<body>
+    <h1>Açelya Ünal</h1><!--başlık-->
+    <h4>HAKKIMDA</h4><!--hakkımda-->
+    <p>Merhaba, ben Açelya Ünal İstanbul'da yaşıyorum. Okan Üniversitesi Yazılım Mühendisliği bölümündeyim ve 4. sınıfa geçtim. Patikaya yeni katıldım ve çok sevdim.
+
+    </p>
+    <h2>HOBİLERİM</h2><!--hobilerim-->
+    <ul>
+        <li>Voleybol</li>
+        <li>Seyahat etmek</li>
+        <li>Arkadaşlarımla vakit geçirmek</li>
+        <li>Yüzmek</li>
+    </ul>
+   
+</body>
+</html>
+https://app.patika.dev/
